@@ -1,4 +1,4 @@
-# AtmoGuard-AIO
+# AtmoGuard-AIO | [Patreon Article](https://www.patreon.com/posts/atmoguard-aio-in-130917701)
 ## Core Functionality
 This ESP32-based system integrates six environmental sensors to monitor:
 
